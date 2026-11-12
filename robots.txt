@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://broilzzz.github.io/sitemap.xml
